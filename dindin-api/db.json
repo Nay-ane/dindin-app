@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "type": "credit",
+      "value": 463,
+      "category": "pagamento",
+      "date": "2021-10-10T03:00:00.000Z",
+      "description": "pagamento recebido",
+      "id": 1
+    },
+    {
+      "type": "debit",
+      "value": 100,
+      "category": "mercado",
+      "date": "2021-10-11T03:00:00.000Z",
+      "description": "compras sacolao",
+      "week_day": "segunda",
+      "id": 2
+    },
+    {
+      "type": "debit",
+      "value": 13,
+      "category": "sa",
+      "date": "2020-09-03T03:00:00.000Z",
+      "description": "sa",
+      "week_day": "quinta",
+      "id": 3
+    },
+    {
+      "type": "debit",
+      "value": 1,
+      "category": "1",
+      "date": "1111-11-11T03:06:28.000Z",
+      "description": "1",
+      "week_day": "sábado",
+      "id": 4
+    }
+  ]
+}

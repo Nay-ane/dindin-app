@@ -1,0 +1,26 @@
+.btn-add {
+    all: unset;
+    box-sizing: border-box;
+
+    position: absolute;
+    right: 115px;
+    top: 340px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 45px;
+    width: 220px;
+
+    background: linear-gradient(91.26deg, #fa8c10 0%, #ff57d3 97.77%);
+    border-radius: 5px;
+
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #ffffff;
+    cursor: pointer;
+}

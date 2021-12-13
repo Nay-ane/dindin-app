@@ -1,0 +1,55 @@
+.container-resume {
+    position: absolute;
+    right: 90px;
+    top: 110px;
+
+    width: 270px;
+    height: 215px;
+
+    background: #fafafa;
+    box-shadow: 0px 2px 11px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+
+    padding: 25px 30px 30px 30px;
+
+    color: #2F2F2F;
+}
+
+
+.resume-title {
+    font-family: "Rubik", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #2f2f2f;
+
+    margin-bottom: 20px;
+}
+
+.resume-item {
+    font-family: "Rubik", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+
+    color: #2F2F2F;
+}
+
+.hr {
+    border: 1px solid #EAEAEA;
+}
+
+.in {
+    color: #645FFB;
+}
+
+.out {
+    color: #FA8C10;
+}
+
+.balance {
+    color: #3A9FF1
+}
